@@ -2,3 +2,4 @@ node_modules/*
 !node_modules/reveal.js
 node_modules/reveal.js/*
 !node_modules/reveal.js/dist
+!node_modules/reveal.js/plugin
