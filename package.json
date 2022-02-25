@@ -1,0 +1,10 @@
+{
+  "name": "uge-presentations",
+  "version": "1.0.0",
+  "description": "My UGE Presentations",
+  "author": "Valentin LE BESCOND",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "reveal.js": "^4.2.1"
+  }
+}
